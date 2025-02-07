@@ -20,5 +20,5 @@ or
 java ./Pyramid.java
 ```
 
-[!IMPORTANT]
+>[!IMPORTANT]
 >all erors write in issures
