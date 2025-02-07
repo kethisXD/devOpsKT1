@@ -52,3 +52,12 @@ add new program pyramid
 ### Changed
 
 ### Fixed
+
+
+## [2.3.0] 2025.02.07
+
+### Added
+merge feature/pyramid into release
+### Changed
+
+### Fixed
