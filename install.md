@@ -1,6 +1,6 @@
 # How to install and run program
 
-[!WARNING]
+>[!WARNING]
 >You must have the JDK installed.
 
 
