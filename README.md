@@ -25,4 +25,5 @@
 Как протестировать эту программу?
 - Вся информация об установке написанна в файле [install](install.md)  
 - Инофрмация об изменениях, исправления ошибок написанна в файле [changelog](changelog.md)
-![](graph.png)
+![](graph.png)  
+- Шпаргалка по git в файле [cheetSheetGit](cheetSheetGit.md)
