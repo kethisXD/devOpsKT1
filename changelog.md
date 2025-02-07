@@ -26,6 +26,7 @@ create program Diamond.java
 ### Changed
 
 ### Fixed
+<<<<<<< HEAD
 
 ## [1.0.1] 2025.02.07
 
@@ -34,3 +35,5 @@ merge feature branch -> release
 ### Changed
 
 ### Fixed
+=======
+>>>>>>> feature/print-diamond-program
