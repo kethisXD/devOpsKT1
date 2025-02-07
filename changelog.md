@@ -26,7 +26,7 @@ create program Diamond.java
 ### Changed
 
 ### Fixed
-<<<<<<< HEAD
+
 
 ## [1.0.1] 2025.02.07
 
@@ -35,5 +35,13 @@ merge feature branch -> release
 ### Changed
 
 ### Fixed
-=======
->>>>>>> feature/print-diamond-program
+
+
+## [2.1.0] 2025.02.07
+
+### Added
+add description in file install
+### Changed
+add new funcional. The program now asks for user input
+### Fixed
+
