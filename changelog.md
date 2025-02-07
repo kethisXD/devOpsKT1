@@ -52,3 +52,12 @@ add new program pyramid
 ### Changed
 
 ### Fixed
+
+## [2.2.1] 2025.02.07
+
+### Added
+
+### Changed
+
+### Fixed
+Fix pyramid. It was written $ expected *
