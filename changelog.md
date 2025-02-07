@@ -17,3 +17,12 @@ add file changelog and install
 ### Changed
 
 ### Fixed
+
+
+## [1.0.0] 2025.02.07
+
+### Added
+create program Diamond.java
+### Changed
+
+### Fixed
