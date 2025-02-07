@@ -45,3 +45,10 @@ add description in file install
 add new funcional. The program now asks for user input
 ### Fixed
 
+## [2.2.0] 2025.02.07
+
+### Added
+add new program pyramid
+### Changed
+
+### Fixed
