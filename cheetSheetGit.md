@@ -3,16 +3,28 @@
 Этот файл содержит основные команды Git:
 
 Посмотреть историю коммитов  
-``` git log```
+``` 
+git log
+```
 Вырезать и вставить файлы из одной ветки в другую  
-```get checkout feature -- example.txt```
+```
+get checkout feature -- example.txt
+```
 Посмотреть историю тегов  
-```git tag -l```
+```
+git tag -l
+```
 Удалить ветку  
-```git branch -d name-branch```
+```
+git branch -d name-branch
+```
 Вывести список всех веток  
-```git branch```
+```
+git branch
+```
 - ( локальные и удаленные)
-```git branch -a```
+```
+git branch -a
+```
 
 
